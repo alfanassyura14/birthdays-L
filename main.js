@@ -56,7 +56,7 @@ function loadCollage() {
   
   // Create photo list (assuming 14 images as found)
   const images = [];
-  for (let i = 1; i <= 14; i++) {
+  for (let i = 1; i <= 17; i++) {
     images.push(`img/${i}.jpeg`);
   }
 
